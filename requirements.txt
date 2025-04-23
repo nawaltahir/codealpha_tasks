@@ -1,0 +1,7 @@
+gradio
+scikit-learn
+sentence-transformers
+lightgbm
+numpy
+huggingface_hub
+
